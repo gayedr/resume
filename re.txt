@@ -1,0 +1,10 @@
+Etape 1 : home, puis backup job, aller dans windows computer
+Etape 2 : selectionner server, puis next jusqu'a computers
+Etape 3 : faire add, individual computers puis mettre son adresse ip et faire add credentials et mettre es informations
+Etape 4 : Dans backup mode, selectionner file level backup
+Etape 5 : Dans objects, selectionner operating system et personal files, puis faire choose, et mettre le chemin de son dossier git
+Etape 6 : Dans storage, selectionner la frequence des backup/sauvegarde voulues
+Etape 7 : Dans guest processing, laisser par defaut la premiere case cochée
+Etape 8 : Mettre la frequence des job voulues quant a la sauvegarde
+Etape 9 : Faire apply 
+Etape 10 : Dans summary, mettre finish !
